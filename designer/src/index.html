@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- ZCL_PDF_STUDIO_UI checks this tag: it only shows a designer page of generation 2. -->
+<meta name="zpdf-designer" content="2.2.0">
+<title>ZPDF Studio</title>
+<style>
+/*CSS*/
+</style>
+</head>
+<body>
+<div id="app">
+  <div id="menubar"></div>
+  <div id="toolbar"></div>
+  <div id="maintabs"></div>
+  <div id="work">
+    <div id="formTab" class="tabpage" style="display:none"></div>
+    <div id="ifaceTab" class="tabpage" style="display:none"></div>
+    <div id="layoutTab" class="tabpage">
+      <aside id="dockLeft" class="dock"></aside>
+      <div id="splitLeft" class="split"></div>
+      <div id="canvasArea">
+        <div id="corner"></div>
+        <canvas id="rulerH"></canvas>
+        <canvas id="rulerV"></canvas>
+        <div id="scroller"><div id="pad"><div id="paper"></div></div></div>
+        <div id="pageNav"></div>
+      </div>
+      <div id="splitRight" class="split"></div>
+      <aside id="dockRight" class="dock"></aside>
+    </div>
+  </div>
+  <div id="statusbar"><span id="status"></span><span id="statusRight"></span></div>
+</div>
+<div id="toast" class="hidden"></div>
+<div id="busy" class="hidden"><span></span></div>
+<div id="unsupported">
+  <b>ZPDF Studio</b><br><br>
+  Bu sayfa SAP GUI'nin Edge (WebView2) tarayıcı denetimiyle çalışır. SAP GUI Seçenekleri &gt; Etkileşim Tasarımı &gt; Denetim Ayarları &gt; Tarayıcı Denetimi = Edge.<br><br>
+  This page needs the Edge (WebView2) browser control of SAP GUI. SAP GUI Options &gt; Interaction Design &gt; Control Settings &gt; Browser Control = Edge.
+</div>
+<iframe id="zpdf-sink" name="zpdf-sink" title="SAP" style="display:none"></iframe>
+<input id="assetInput" type="file" accept=".png,.jpg,.jpeg,.ttf,image/png,image/jpeg,font/ttf" style="display:none">
+<!-- Filled by ABAP (ZCL_PDF_STUDIO_UI) before the page is shown. -->
+<script id="zpdf-boot" type="application/json">__ZPDF_BOOT__</script>
+<script>
+// The old Internet Explorer control cannot run the designer: say so instead of a blank page.
+(function () {
+  var ok = false;
+  try { ok = typeof Promise !== 'undefined' && typeof TextEncoder !== 'undefined' && !!Object.assign && !!Element.prototype.closest; } catch (e) { ok = false; }
+  if (!ok) {
+    document.getElementById('app').style.display = 'none';
+    document.getElementById('unsupported').style.display = 'block';
+    window.ZPDF_UNSUPPORTED = true;
+  }
+})();
+</script>
+<script>
+/*JS*/
+</script>
+</body>
+</html>

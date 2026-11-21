@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZPDF_DEMO_QTY</ROLLNAME>
+    <HEADLEN>06</HEADLEN>
+    <SCRLEN1>06</SCRLEN1>
+    <SCRLEN2>06</SCRLEN2>
+    <SCRLEN3>06</SCRLEN3>
+    <DTELMASTER>T</DTELMASTER>
+    <DATATYPE>DEC</DATATYPE>
+    <LENG>000013</LENG>
+    <DECIMALS>000003</DECIMALS>
+    <OUTPUTLEN>000017</OUTPUTLEN>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>T</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>T</DDLANGUAGE>
+     <DDTEXT>ZPDF Studio demo: miktar</DDTEXT>
+     <REPTEXT>Miktar</REPTEXT>
+     <SCRTEXT_S>Miktar</SCRTEXT_S>
+     <SCRTEXT_M>Miktar</SCRTEXT_M>
+     <SCRTEXT_L>Miktar</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

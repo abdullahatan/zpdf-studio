@@ -1,0 +1,1240 @@
+{
+ "at": "2026-11-21T14:06:28.617Z",
+ "total": 176,
+ "failed": 0,
+ "leaves": 103,
+ "rows": [
+  {
+   "menu": "Hazırlık",
+   "item": "Arayüz",
+   "what": "INPUT = ZPDF_S_INPUT parametresi eklendi",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Standart > Metin",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Standart > Veri alanı",
+   "what": "nesne sayfaya eklenir ve seçilir; alan seçici açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Standart > Paragraf",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Standart > Tablo",
+   "what": "nesne sayfaya eklenir ve seçilir; alan seçici açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Standart > Resim / Logo",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Standart > Onay kutusu",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Özel alanlar > Tarih alanı",
+   "what": "nesne sayfaya eklenir ve seçilir; alan seçici açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Özel alanlar > Tutar alanı",
+   "what": "nesne sayfaya eklenir ve seçilir; alan seçici açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Özel alanlar > Yazıyla tutar",
+   "what": "nesne sayfaya eklenir ve seçilir; alan seçici açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Özel alanlar > Sayfa numarası",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Özel alanlar > Filigran",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Şekiller > Çizgi",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Şekiller > Dikey çizgi",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Şekiller > Dikdörtgen",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Şekiller > Elips",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Barkodlar > QR Kod",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Barkodlar > DataMatrix",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Barkodlar > Code 128",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Barkodlar > Code 39",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Barkodlar > EAN-13",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Barkodlar > EAN-8",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Barkodlar > UPC-A",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Barkodlar > ITF-14",
+   "what": "nesne sayfaya eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "(tümü)",
+   "what": "23 kitaplık nesnesinin tamamı eklendi",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Kayıtlı logolar",
+   "what": "depo boşken \"(depoda logo yok)\" gösterilir ve seçilemez",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Yeni tasarım sayfası",
+   "what": "ikinci tasarım sayfası açılır ve gösterilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Sayfa gezgini: sayfayı sil (−)",
+   "what": "onaydan sonra tasarım sayfası silinir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzenle",
+   "item": "Kes / Kopyala / Çoğalt / Sil",
+   "what": "seçim yokken pasif",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzenle",
+   "item": "Tümünü seç",
+   "what": "sayfadaki tüm nesneler seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzenle",
+   "item": "Sil",
+   "what": "seçili nesneler silinir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzenle",
+   "item": "Geri al",
+   "what": "silinen nesneler geri gelir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzenle",
+   "item": "Yinele",
+   "what": "geri alınan silme yeniden uygulanır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzenle",
+   "item": "Kopyala",
+   "what": "seçili nesne panoya alınır, sayfa değişmez",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzenle",
+   "item": "Yapıştır",
+   "what": "kopya 4 mm kaydırılarak eklenir ve seçilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzenle",
+   "item": "Çoğalt",
+   "what": "seçili nesnenin kopyası eklenir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzenle",
+   "item": "Kes",
+   "what": "nesne sayfadan kalkar, panoda kalır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzenle",
+   "item": "Yapıştır (kesilen)",
+   "what": "kesilen nesne yeniden eklenir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzenle",
+   "item": "Ctrl+Z",
+   "what": "kısayol geri alır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzenle",
+   "item": "Ctrl+Y",
+   "what": "kısayol yineler",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzenle",
+   "item": "Ctrl+A, Ctrl+D",
+   "what": "tümünü seçer ve çoğaltır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzenle",
+   "item": "Del",
+   "what": "seçili nesneleri siler",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzenle",
+   "item": "Sayfa komutları",
+   "what": "Form Özellikleri / Arayüz sekmesinde pasif; kısayolları da çalışmaz",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Form Özellikleri",
+   "what": "Form Özellikleri sekmesi açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Arayüz",
+   "what": "Arayüz sekmesi açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Düzen",
+   "what": "Düzen sekmesi açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Yakınlaştır",
+   "what": "%100 → %110; kâğıt büyür",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Uzaklaştır",
+   "what": "%110 → %100 → %90",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Gerçek boyut (%100)",
+   "what": "yakınlaştırma %100 olur",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Sayfayı sığdır",
+   "what": "sayfanın tamamı çalışma alanına sığar",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Genişliğe sığdır",
+   "what": "sayfa genişliği çalışma alanını doldurur",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "+ / − / Ctrl+0",
+   "what": "klavyeyle kademeli yakınlaştırma ve %100",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Izgara",
+   "what": "ızgara noktaları gizlenir; işaret kalkar",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Izgara (tekrar)",
+   "what": "ızgara yeniden gösterilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Cetveller",
+   "what": "cetvel çizgileri gizlenir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Cetveller (tekrar)",
+   "what": "cetveller yeniden çizilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Kenar boşlukları",
+   "what": "kenar boşluğu kılavuzu gizlenir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Kenar boşlukları (tekrar)",
+   "what": "kılavuz yeniden gösterilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Izgaraya yasla",
+   "what": "açıkken sürüklenen nesne ızgara adımına (1 mm) oturur; kapalıyken serbest konumda kalır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Nesnelere yasla",
+   "what": "açıkken nesne, yakınındaki nesnenin kenarına oturur (4 piksel içinde); kapalıyken oturmaz",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Izgaraya / Nesnelere yasla (tekrar)",
+   "what": "ikisi de yeniden açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Önizleme verisini sayfada göster",
+   "what": "bağlı alanlar {ALAN} yerine önizleme verisinin değerini gösterir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Önizleme verisini sayfada göster (tekrar)",
+   "what": "alan adları yeniden gösterilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Tema > Koyu",
+   "what": "koyu tema uygulanır, kullanıcı ayarı olarak saklanır; kâğıt beyaz kalır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm",
+   "item": "Tema > Açık",
+   "what": "açık temaya dönülür",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Tablo",
+   "item": "Sütun komutları",
+   "what": "tablo seçili değilken pasif",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Tablo",
+   "item": "Tablo ekle",
+   "what": "tablo sayfa genişliğinde eklenir; arayüz tabloları seçime sunulur",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Tablo",
+   "item": "Tablo ekle > arayüz tablosu seç",
+   "what": "tablo INPUT.ITEMS tablosuna bağlanır; sütunlar satır alanlarından oluşur",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Tablo",
+   "item": "Sütun ekle",
+   "what": "tabloya bir sütun eklenir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Tablo",
+   "item": "Son sütunu sil",
+   "what": "son sütun silinir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Tablo",
+   "item": "Sütunları arayüz tablosundan oluştur",
+   "what": "sütunlar bağlı tablonun alanlarından yeniden oluşur",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Tablo",
+   "item": "Sütunları eşit genişlikte yap",
+   "what": "tüm sütunlar %20 olur",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Tablo",
+   "item": "Başlık satırı",
+   "what": "başlık satırı tasarımdan ve üretilen formdan kalkar",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Tablo",
+   "item": "Başlık satırı (tekrar)",
+   "what": "başlık satırı geri gelir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Tablo",
+   "item": "Sütunları arayüz tablosundan oluştur",
+   "what": "tablo bağlı değilken pasif",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Hizalama / sıra komutları",
+   "what": "seçim yokken pasif",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Nesneleri hizala > Sola (3 nesne)",
+   "what": "sol kenarlar en soldaki nesneye (20 mm) hizalanır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Nesneleri hizala > Yatayda ortala (3 nesne)",
+   "what": "yatay merkezler seçimin ortasına (90 mm) hizalanır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Nesneleri hizala > Sağa (3 nesne)",
+   "what": "sağ kenarlar en sağdaki nesneye (160 mm) hizalanır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Nesneleri hizala > Üste (3 nesne)",
+   "what": "üst kenarlar en üstteki nesneye (30 mm) hizalanır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Nesneleri hizala > Dikeyde ortala (3 nesne)",
+   "what": "dikey merkezler seçimin ortasına (64 mm) hizalanır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Nesneleri hizala > Alta (3 nesne)",
+   "what": "alt kenarlar en alttaki nesneye (98 mm) hizalanır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Nesneleri hizala > Sola (tek nesne)",
+   "what": "tek nesne sol kenar boşluğuna yaslanır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Nesneleri hizala > Yatayda ortala (tek nesne)",
+   "what": "tek nesne yazdırılabilir alanın yatay ortasına gelir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Nesneleri hizala > Sağa (tek nesne)",
+   "what": "tek nesne sağ kenar boşluğuna yaslanır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Nesneleri hizala > Üste (tek nesne)",
+   "what": "tek nesne üst kenar boşluğuna yaslanır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Nesneleri hizala > Dikeyde ortala (tek nesne)",
+   "what": "tek nesne yazdırılabilir alanın dikey ortasına gelir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Nesneleri hizala > Alta (tek nesne)",
+   "what": "tek nesne alt kenar boşluğuna yaslanır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Metni hizala > Ortaya",
+   "what": "metin ve veri alanının yazısı kutusunun içinde hizalanır (tasarım + üretilen form); nesne yer değiştirmez; menüde işaretlenir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Metni hizala > Sağa",
+   "what": "metin ve veri alanının yazısı kutusunun içinde hizalanır (tasarım + üretilen form); nesne yer değiştirmez; menüde işaretlenir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Metni hizala > Sola",
+   "what": "metin ve veri alanının yazısı kutusunun içinde hizalanır (tasarım + üretilen form); nesne yer değiştirmez; menüde işaretlenir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Metni hizala > Dikeyde ortaya",
+   "what": "metin ve veri alanının yazısı kutusunun içinde hizalanır (tasarım + üretilen form); nesne yer değiştirmez; menüde işaretlenir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Metni hizala > Alta",
+   "what": "metin ve veri alanının yazısı kutusunun içinde hizalanır (tasarım + üretilen form); nesne yer değiştirmez; menüde işaretlenir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Metni hizala > Üste",
+   "what": "metin ve veri alanının yazısı kutusunun içinde hizalanır (tasarım + üretilen form); nesne yer değiştirmez; menüde işaretlenir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Metni hizala",
+   "what": "seçimde metin nesnesi yokken pasif",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Eşit aralıkla dağıt",
+   "what": "üçten az nesne seçiliyken pasif",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Eşit aralıkla dağıt > Yatayda",
+   "what": "ilk ve son nesne yerinde kalır; aradaki boşluklar eşitlenir (10 mm)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Eşit aralıkla dağıt > Dikeyde",
+   "what": "dikey boşluklar eşitlenir (22 mm)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Aynı boyuta getir",
+   "what": "tek nesne seçiliyken pasif",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Aynı boyuta getir > Genişlik",
+   "what": "tüm nesneler ilk seçilen nesnenin (B, 30 mm) genişliğini alır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Aynı boyuta getir > Yükseklik",
+   "what": "tüm nesneler ilk seçilen nesnenin (B, 10 mm) yüksekliğini alır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Sayfada ortala > Yatayda",
+   "what": "nesne kâğıdın yatay ortasına gelir (kenar boşluklarına bakmadan)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Sayfada ortala > Dikeyde",
+   "what": "nesne kâğıdın dikey ortasına gelir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "En öne getir",
+   "what": "nesne en üste çizilir (ABC → BCA)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Bir öne getir",
+   "what": "nesne bir sıra öne gelir (ABC → BAC)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Bir arkaya gönder",
+   "what": "nesne bir sıra arkaya gider (ABC → ACB)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "En arkaya gönder",
+   "what": "nesne en alta çizilir (ABC → CAB)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Kilitle / kilidi aç",
+   "what": "kilitli nesne sürüklenemez, silinemez, hizalanamaz",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Düzen",
+   "item": "Kilitle / kilidi aç (tekrar)",
+   "what": "kilit kalkar; nesne yeniden taşınabilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Sağ tık menüsü",
+   "item": "(içerik)",
+   "what": "nesneye sağ tıklayınca nesne seçilir ve kısa menü açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Sağ tık menüsü",
+   "item": "Metni hizala > Sağa",
+   "what": "alt menü açılır ve komut uygulanır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Sağ tık menüsü",
+   "item": "Çoğalt",
+   "what": "nesnenin kopyası eklenir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araçlar",
+   "item": "Logo / font yükle...",
+   "what": "dosya seçme penceresi açılır (PNG, JPEG, TTF)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araçlar",
+   "item": "Logo / font yükle... > dosya",
+   "what": "\"Logo yükle\" penceresi dosya adından bir depo adı önerir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araçlar",
+   "item": "Logo / font yükle... > Yükle",
+   "what": "logo depoya eklenir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araçlar",
+   "item": "Logo / font yükle... > geçersiz dosya",
+   "what": "PNG/JPEG/TTF olmayan dosya hata mesajıyla reddedilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araçlar",
+   "item": "Logo / font yükle... > TTF",
+   "what": "font ailesi sorulur; font depoya eklenir ve tasarımcıda kullanılabilir olur",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araçlar",
+   "item": "Logo ve font deposu...",
+   "what": "depodaki logo ve fontlar listelenir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araçlar",
+   "item": "Logo ve font deposu... > Sayfaya ekle",
+   "what": "logo, en-boy oranı korunarak resim nesnesi olarak eklenir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Ekle",
+   "item": "Kayıtlı logolar > ZPDF_LOGO",
+   "what": "depodaki logo sayfaya eklenir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araçlar",
+   "item": "Önizleme verisi...",
+   "what": "Arayüz sekmesi açılır (önizleme verisi burada düzenlenir)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araçlar",
+   "item": "Uyarılar...",
+   "what": "çıktıyı etkileyecek uyarılar listelenir (ör. bağlanmamış tablo)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araçlar",
+   "item": "ABAP çağrı kodu...",
+   "what": "formu çağıran ABAP kodu gösterilir (render_form, arayüz parametreleriyle)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araçlar",
+   "item": "ABAP çağrı kodu... > Panoya kopyala",
+   "what": "kod panoya kopyalanır; pencere açık kalır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araçlar",
+   "item": "Oluşturulan form HTML'i...",
+   "what": "motorun kullanacağı form HTML'i salt okunur gösterilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araçlar",
+   "item": "Otomatik kaydet",
+   "what": "otomatik kaydet kapanır; araç çubuğundaki kutu ve menü işareti de değişir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araçlar",
+   "item": "Otomatik kaydet (tekrar)",
+   "what": "otomatik kaydet yeniden açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Paletler",
+   "item": "(içerik)",
+   "what": "dört palet listelenir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Paletler",
+   "item": "Hiyerarşi",
+   "what": "palet gizlenir; yeniden seçilince geri gelir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Paletler",
+   "item": "Veri Görünümü",
+   "what": "palet gizlenir; yeniden seçilince geri gelir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Paletler",
+   "item": "Nesne Kitaplığı",
+   "what": "palet gizlenir; yeniden seçilince geri gelir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Paletler",
+   "item": "Nesne",
+   "what": "palet gizlenir; yeniden seçilince geri gelir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Paletler",
+   "item": "Tüm paletleri gizle",
+   "what": "tüm paletler kapanır; sayfa tam genişliği kullanır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Paletler",
+   "item": "Tüm paletleri göster",
+   "what": "dört palet de açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Paletler",
+   "item": "Palet başlığı: daralt / genişlet",
+   "what": "palet başlığındaki düğme paleti daraltır ve genişletir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Paletler",
+   "item": "Çalışma alanını sıfırla",
+   "what": "paletler, görünüm seçenekleri ve yakınlaştırma varsayılana döner (tasarım değişmez)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Yardım",
+   "item": "Klavye kısayolları",
+   "what": "bilgi penceresi açılır ve Kapat ile kapanır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Yardım",
+   "item": "Hızlı başlangıç",
+   "what": "bilgi penceresi açılır ve Kapat ile kapanır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Yardım",
+   "item": "ZPDF Studio hakkında",
+   "what": "bilgi penceresi açılır ve Kapat ile kapanır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya",
+   "item": "Transport / Yeniden yükle / Çıkış",
+   "what": "SAP dışında (tarayıcıda) pasif",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya",
+   "item": "Tasarımı JSON olarak dışa aktar",
+   "what": "tasarım .json dosyası olarak indirilir (tarayıcı modu)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya",
+   "item": "JSON içe aktar... > geçersiz metin",
+   "what": "hata mesajı verilir; pencere açık kalır, tasarım değişmez",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya",
+   "item": "JSON içe aktar... > İçe aktar",
+   "what": "yapıştırılan tasarım mevcut tasarımın yerini alır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya",
+   "item": "JSON içe aktar... > Geri al",
+   "what": "içe aktarma geri alınabilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya",
+   "item": "Kaydet",
+   "what": "form kaydedilir; \"değişti\" işareti kalkar, sürüm atanır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya",
+   "item": "PDF önizle",
+   "what": "önizleme isteği gönderilir (tarayıcı modunda motor HTML'i yeni pencerede açılır)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya",
+   "item": "Sürümler...",
+   "what": "sürüm listesi açılır; etkin sürüm işaretlidir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya",
+   "item": "Ctrl+S",
+   "what": "kısayol kaydeder",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araç çubuğu",
+   "item": "Kaydet | Önizle | Uyarılar",
+   "what": "üç ana düğme vardır; Uyarılar penceresi açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Genel",
+   "item": "Betik hataları (tarayıcı modu)",
+   "what": "hiçbir menü öğesi betik hatası üretmedi",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Genel",
+   "item": "Kapsam (tarayıcı modu)",
+   "what": "103 menü öğesinin SAP'ye özel 3'ü dışında hepsi tıklandı",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya (SAP)",
+   "item": "Kaydet",
+   "what": "SAVE isteği tasarımın tamamıyla ABAP'a gönderilir; SAP yanıtlayana kadar \"SAP işlem yapıyor...\" perdesi görünür",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya (SAP)",
+   "item": "Kaydet > SAP yanıtı",
+   "what": "sayfa yeniden gösterildiğinde tasarım yerindedir; sürüm 0004, mesaj gösterilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya (SAP)",
+   "item": "PDF önizle",
+   "what": "PREVIEW isteği form HTML'i, kenar boşlukları ve önizleme verisiyle gönderilir; sayfa kullanılabilir kalır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya (SAP)",
+   "item": "Transport talebine ekle... (kaydedilmiş form)",
+   "what": "TRANSPORT isteği doğrudan gönderilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya (SAP)",
+   "item": "Transport talebine ekle... (değişmiş form)",
+   "what": "önce kaydetme onayı istenir; onaydan sonra TRANSPORT isteği save=X ile gider",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya (SAP)",
+   "item": "Sürümler...",
+   "what": "VERSIONS isteği gönderilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya (SAP)",
+   "item": "Sürümler... > SAP yanıtı",
+   "what": "sürümler tarih ve kullanıcıyla listelenir; eski sürümde \"Bu sürüme dön\" düğmesi vardır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya (SAP)",
+   "item": "Sürümler... > Bu sürüme dön",
+   "what": "onaydan sonra ACTIVATE_VERSION isteği sürüm numarasıyla gönderilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya (SAP)",
+   "item": "Tasarımı JSON olarak dışa aktar",
+   "what": "SAP içinde tasarım JSON'u kopyalanabilir bir pencerede gösterilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya (SAP)",
+   "item": "Sayfayı SAP'den yeniden yükle",
+   "what": "RELOAD isteği güncel tasarımla gönderilir (ABAP sayfayı aynı durumla yeniden gösterir)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dosya (SAP)",
+   "item": "Çıkış",
+   "what": "EXIT isteği güncel tasarım ve \"değişti\" bilgisiyle gönderilir (kaydetme uyarısını ABAP gösterir)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araçlar (SAP)",
+   "item": "Otomatik kaydet",
+   "what": "seçim SYNC isteğiyle hemen ABAP'a bildirilir (autosave boş = kapalı)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görünüm (SAP)",
+   "item": "Tema > Koyu",
+   "what": "tema PREFS isteğiyle kullanıcı ayarı olarak ABAP'a gönderilir; dil ayarı gönderilmez",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araçlar (SAP)",
+   "item": "Logo / font yükle...",
+   "what": "UPLOAD_ASSET isteği dosya içeriği, depo adı ve güncel tasarımla gönderilir",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Araçlar (SAP)",
+   "item": "Dil",
+   "what": "Araçlar menüsünde dil seçimi yoktur (dil SAP oturum dilinden gelir)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dil",
+   "item": "Oturum dili TR",
+   "what": "arayüz Türkçe açılır (eski \"dil\" kullanıcı ayarı dikkate alınmaz)",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dil",
+   "item": "Oturum dili EN",
+   "what": "arayüz İngilizce açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dil",
+   "item": "Oturum dili DE",
+   "what": "arayüz İngilizce açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dil",
+   "item": "Oturum dili FR",
+   "what": "arayüz İngilizce açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dil",
+   "item": "Oturum dili RU",
+   "what": "arayüz İngilizce açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dil",
+   "item": "Oturum dili (boş)",
+   "what": "arayüz İngilizce açılır",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Dil",
+   "item": "İngilizce oturumda Türkçe kalıntı",
+   "what": "menüler, araç çubuğu, sekmeler, paletler, özellikler ve pencerelerde Türkçe metin kalmaz",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Görüntüleme modu",
+   "item": "Değiştiren komutlar",
+   "what": "Görüntüle ile açılan formda kaydetme, ekleme, içe aktarma, yükleme pasif; önizleme, sürümler, dışa aktarma etkin",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Genel",
+   "item": "Betik hataları (SAP modu)",
+   "what": "hiçbir menü öğesi betik hatası üretmedi",
+   "ok": true,
+   "extra": ""
+  },
+  {
+   "menu": "Genel",
+   "item": "Kapsam (SAP modu)",
+   "what": "SAP'ye özel 3 menü öğesi de tıklandı",
+   "ok": true,
+   "extra": ""
+  }
+ ]
+}

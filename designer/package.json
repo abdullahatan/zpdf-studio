@@ -1,0 +1,19 @@
+{
+  "name": "zpdf-studio-designer",
+  "version": "2.2.0",
+  "private": true,
+  "description": "ZPDF Studio designer: one self-contained HTML page shown by SAP GUI",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node test/convert.test.mjs",
+    "test:ui": "node test/smoke.mjs test/out && node test/menus.mjs test/out",
+    "demo": "node demo/build.mjs",
+    "demo:assets": "node demo/assets.mjs",
+    "screens": "node demo/screens.mjs"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^25.0.0"
+  }
+}
